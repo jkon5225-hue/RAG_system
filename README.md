@@ -1,6 +1,6 @@
 # マルチジャンル RAG 検索・統合認証管理システム
 
-Streamlit および ChromaDB、Ollama、pdf.js を活用した、マルチジャンル対応のローカル RAG（Retrieval-Augmented Generation）検索システムおよび認証・ユーザー管理基盤です。
+Streamlit および ChromaDB、Ollama、pdf.js を活用した、マルチジャンル対応のローカル RAG（Retrieval-Augmented Generation）検索システムおよび認証・ユーザー管理プラットフォームです。
 
 ---
 
