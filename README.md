@@ -74,7 +74,7 @@ Streamlit および ChromaDB、Ollama、pdf.js を活用した、マルチジャ
 ├── requirements.txt      # 依存 Python パッケージ一覧
 └── pages/
     ├── kanrisya.py       # 【管理者用】RAG登録・削除・検索・pdf.jsハイライト表示
-    ├── user.py           # 【一般・理事用】RAG検索・参照専用画面（ファイル操作排除）
+    ├── user.py           # 【一般用】RAG検索・参照専用画面（ファイル操作排除）
     └── user_manager.py   # 【管理者用】ユーザー管理・監査ログ・一括インポート画面
 ```
 
