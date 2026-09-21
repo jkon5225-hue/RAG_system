@@ -1,0 +1,10 @@
+﻿*.db
+*.db-shm
+*.db-wal
+
+chroma_db2/
+
+.env
+
+__pycache__/
+*.pyc
