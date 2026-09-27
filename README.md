@@ -95,6 +95,8 @@ Streamlit および ChromaDB、Ollama、FastAPI、pdf.js を活用した、マ�
 * Windows 環境: `docx2pdf`
 * Linux / Ubuntu 環境: `LibreOffice` (`soffice`)
 
+* なお、本システムは、React.js 、Express.js、FastAPIとの連携によりAWSへの拡張も可能です。
+
 ---
 
 ## 🗄️ データベース仕様
